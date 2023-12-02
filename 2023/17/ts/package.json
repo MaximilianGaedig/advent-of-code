@@ -1,0 +1,15 @@
+{
+  "name": "aoc-year2023-day17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "typescript": "^5.3.2"
+  },
+  "scripts": {
+    "dev": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
